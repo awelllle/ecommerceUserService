@@ -8,7 +8,7 @@ Run `npm install` and then `npm start`
 
 ## Running  tests
 
-Run `npm test` to execute the unit tests via [Mocha](https://mochajs.org).
+Run `npm test` to execute tests via [Mocha](https://mochajs.org).
 
 
 ## Doc link
