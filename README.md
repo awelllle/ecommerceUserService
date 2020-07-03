@@ -1,6 +1,6 @@
-# Demo Ecommerce User service
+# Demo Ecommerce User Microservice
 
-This is a demo user service for demo ecommerce platform. It registers and logs in a user and it does the important job of validating the JWT token of every request from the other services.
+This is a demo user microservice for demo ecommerce platform. It registers and logs in a user and it does the important job of validating the JWT token of every request from the other services.
 
 ## Running it
 
