@@ -11,5 +11,5 @@ Run `npm install` and then `npm start`
 Run `npm test` to execute tests via [Mocha](https://mochajs.org).
 
 
-## Doc link
+## Documentation link
 https://bit.ly/EcommerceApiDocs
